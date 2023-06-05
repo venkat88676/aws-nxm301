@@ -1,0 +1,23 @@
+{
+  "name": "aws-nxm301",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkat88676/aws-nxm301.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkat88676/aws-nxm301/issues"
+  },
+  "homepage": "https://github.com/venkat88676/aws-nxm301#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
